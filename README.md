@@ -23,8 +23,8 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 📫 How to reach me: 
 - <p align="center">
-<a href="https://www.linkedin.com/in/akshyat-pattnaik-0976b32b9/"></a>
-<a href="https://www.instagram.com/__axyat__07/"></a>
-<a href="mailto:akshyatpattnaik07@gmail.com"></a>
+<a href="https://www.linkedin.com/in/akshyat-pattnaik-0976b32b9/">LinkedIn</a>
+<a href="https://www.instagram.com/__axyat__07/">Instagram </a>
+<a href="mailto:akshyatpattnaik07@gmail.com">Gmail</a>
 </p>
 
