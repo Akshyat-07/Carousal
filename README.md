@@ -22,7 +22,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 - 📫 How to reach me:
- <p align="center">
+ <p>
 <a href="https://www.linkedin.com/in/akshyat-pattnaik-0976b32b9/">LinkedIn</a>
 <a href="https://www.instagram.com/__axyat__07/">Instagram </a>
 <a href="mailto:akshyatpattnaik07@gmail.com">Gmail</a>
