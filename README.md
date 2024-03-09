@@ -25,6 +25,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 - <p align="center">
 <a href="[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/akshyat-pattnaik-0976b32b9/)"></a>
 <a href="https://www.instagram.com/__axyat__07/"></a>
-<a href="mailto:akshyatpattnaik07@gmail.com"><</a>
+<a href="mailto:akshyatpattnaik07@gmail.com"></a>
 </p>
 
